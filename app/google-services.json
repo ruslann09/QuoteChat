@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "785161286506",
+    "firebase_url": "https://quotechat-aa476.firebaseio.com",
+    "project_id": "quotechat-aa476",
+    "storage_bucket": "quotechat-aa476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785161286506:android:b6dc170cb0cf3331",
+        "android_client_info": {
+          "package_name": "com.quote.chat.quotechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785161286506-q298i90plkltcj3m71481fh3o2e0udh5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quote.chat.quotechat",
+            "certificate_hash": "eb2a9386aa2b8ed8beeb9a0e8f996d91559186b2"
+          }
+        },
+        {
+          "client_id": "785161286506-aqe7q5kke7kf1v5kt746os7ivdumgmra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYVdCVOL9b2M0SxQp4xjSyM526loTDyl4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785161286506-aqe7q5kke7kf1v5kt746os7ivdumgmra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
